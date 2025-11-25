@@ -1,0 +1,1 @@
+from shortner import generate_random_slug
