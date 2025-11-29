@@ -1,5 +1,3 @@
-from sqlalchemy.exc import IntegrityError
-
 from database.db import new_session
 from database.models import ShortURL
 
